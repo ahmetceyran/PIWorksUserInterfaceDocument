@@ -1,6 +1,6 @@
-#Main Page
+# Main Page
 
-##Topbar
+## Topbar
 -Clicking "+New User" (or it can be removed because we already have "Save User" button which can clear the filled sections) will reload the page with cleaned New User section
 -Clicking "Hide Disabled User" will delete users whose enabled section is false from the list
 -Clicking "Save User" will get the filled data from New User section and save the user as new user
